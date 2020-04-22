@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color:#f6e113;
+    font-family: 'Istok Web', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profil-pic{
+    width: 100px;
+    height: 100px;
+    border: 3px white solid;
+    border-radius:40%;
+    float: left;
+    
+}
+.header-bio{
+    float:left;
+    padding: :40px;
+    
+}
+h1,h2,h3,h4{
+    color:#086ABD ; 
+}
+.contact{
+    float: right;
+    padding: 3px;
+}
+.contact a{
+    text-decoration: none;
+    color:#0093fb;
+    font-weight: 200;
+}
+.contact a:hover{
+   text-decoration: underline;
+    text-decoration-color: blueviolet;
+color: #0016fb;}
+clear-div{
+    clear: both;
+}
+hr{
+    color:solid 100px gray;
+    width: 100% auto;
+    margin:110px auto ;
+   border-bottom: none;
+    
+}
+/*personal-sec*/
+#personal-sec{}
+.content{}
+
+.div-left{
+    width: 30%;
+    float: left;
+
+}
+.div-right{
+    width: 70%;
+float: left;}
+/*Educational Qualification*/
+/*Skill*/
+/*reference*/
+/*Project*/
+/*Awards*/
+/*Footer*/
+.bottom-container{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+.bottom-container a{
+    color: white;
+    text-decoration-color: aliceblue;
+	margin: 20px;
+	text-decoration: none;
+}
+.bottom-container {
+	color: white;
+	margin-top: 20px;
+}
